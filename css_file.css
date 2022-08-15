@@ -1,0 +1,455 @@
+body {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  font-size: 1em;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.size{
+  width: 21cm;
+  height: 29.7cm;
+  }
+
+.cont {
+  position: relative;
+  height: 149%;
+  width: 41%;
+  background: rgb(3, 77, 73);
+  color: bisque;
+}
+
+#IMG {
+  width: 45%;
+  height: 10%;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: rgb(2, 77, 77);
+  position: relative;
+  left: 70px;
+  top: 25px;
+}
+
+#heading {
+  position: relative;
+  top: 10px;
+  padding: 20px;
+}
+
+#hr_size {
+  position: relative;
+  top: -25px;
+  left: -10px;
+  width: 80%;
+}
+
+#add {
+  position: relative;
+  top: -55px;
+  left: 40px;
+  font-size: 0.9rem;
+  color: aliceblue;
+}
+
+#number {
+  position: relative;
+  top: -98px;
+  left: 40px;
+  font-size: 0.9rem;
+  color: aliceblue;
+}
+
+#email {
+  position: relative;
+  top: -141px;
+  left: 40px;
+  font-size: 0.9rem;
+  color: aliceblue;
+}
+
+#linkedin {
+  position: relative;
+  top: -184px;
+  left: 40px;
+  font-size: 0.9rem;
+  color: aliceblue;
+}
+
+#techgig {
+  position: relative;
+  top: -230px;
+  left: 40px;
+  font-size: 0.9rem;
+  color: aliceblue;
+}
+
+#heading2 {
+  position: relative;
+  top: -160px;
+  padding: 20px;
+}
+
+#hr_size2 {
+  position: relative;
+  top: -195px;
+  left: -10px;
+  width: 80%;
+}
+
+p.python {
+  position: relative;
+  top: -200px;
+  left: 20px;
+  color: aliceblue;
+  font-size: 1.3rem;
+}
+
+progress.python {
+  position: relative;
+  top: -230px;
+  left: 20px;
+  width: 75%;
+  height: 10px;
+}
+p.django {
+  position: relative;
+  top: -240px;
+  left: 20px;
+  color: aliceblue;
+  font-size: 1.3rem;
+}
+
+progress.django {
+  position: relative;
+  top: -270px;
+  left: 20px;
+  width: 75%;
+  height: 10px;
+}
+
+
+p.data {
+  position: relative;
+  top: -280px;
+  left: 20px;
+  font-size: 1.3rem;
+  color: aliceblue;
+}
+
+progress.data {
+  position: relative;
+  top: -310px;
+  left: 20px;
+  width: 75%;
+  height: 10px;
+}
+
+p.mysql {
+  position: relative;
+  top: -320px;
+  left: 20px;
+  font-size: 1.3rem;
+  color: aliceblue;
+}
+
+progress.mysql {
+  position: relative;
+  top: -350px;
+  left: 20px;
+  width: 75%;
+  height: 10px;
+}
+
+p.html {
+  position: relative;
+  top: -360px;
+  left: 20px;
+  font-size: 1.3rem;
+  color: aliceblue;
+}
+
+progress.html {
+  position: relative;
+  top: -390px;
+  left: 20px;
+  width: 75%;
+  height: 10px;
+}
+
+p.css {
+  position: relative;
+  top: -400px;
+  left: 20px;
+  font-size: 1.3rem;
+  color: aliceblue;
+}
+
+progress.css {
+  position: relative;
+  top: -430px;
+  left: 20px;
+  width: 75%;
+  height: 10px;
+}
+
+p.ar {
+  position: relative;
+  top: -440px;
+  left: 20px;
+  font-size: 1.3rem;
+  color: aliceblue;
+}
+
+progress.ar {
+  position: relative;
+  top: -470px;
+  left: 20px;
+  width: 75%;
+  height: 10px;
+}
+
+p.iot {
+  position: relative;
+  top: -480px;
+  left: 20px;
+  font-size: 1.3rem;
+  color: aliceblue;
+}
+
+progress.iot {
+  position: relative;
+  top: -510px;
+  left: 20px;
+  width: 75%;
+  height: 10px;
+}
+
+p.scratch {
+  position: relative;
+  top: -520px;
+  left: 20px;
+  font-size: 1.3rem;
+  color: aliceblue;
+}
+
+progress.scratch {
+  position: relative;
+  top: -550px;
+  left: 20px;
+  width: 75%;
+  height: 10px;
+}
+
+.other1 {
+  position: relative;
+  top: -470px;
+  left: 20px;
+  font-size: 1.3rem;
+  color: aliceblue;
+}
+
+.other2 {
+  position: relative;
+  top: -485px;
+  left: 20px;
+  font-size: 1.3rem;
+  padding: 3px;
+  color: aliceblue;
+}
+
+#main {
+  position: absolute;
+  top: 0px;
+  left: 350px;
+
+}
+
+#heading3 {
+  position: relative;
+  top: -500px;
+  padding: 20px;
+}
+
+#hr_size3 {
+  position: relative;
+  top: -530px;
+  left: -10px;
+  width: 80%;
+}
+
+#c_box {
+  position: relative;
+  top: -520px;
+  left: 15px;
+  color: aliceblue;
+}
+
+#hr_size4 {
+  position: relative;
+  top: -30px;
+  left: -190px;
+  height: 2px;
+  width: 60%;
+  background-color: rgb(0, 0, 0);
+}
+
+#obj{
+  position: relative;
+  top: -35px;
+  font-size: 1.2em;
+}
+
+#hr_size5 {
+  position: relative;
+  top: -45px;
+  left: 0px;
+  background-color: rgb(0, 0, 0);
+  width: 100%;
+}
+
+pre.obj{
+  position: relative;
+  top: -75px;
+  font-size: 1.1rem;
+}
+
+pre.stem{
+  position: relative;
+  top: -110px;
+  font-size: 1.1rem;
+}
+
+.exp{
+  position: relative;
+  top: -95px;
+  font-size: 1.2em;
+}
+
+#hr_size6 {
+  position: relative;
+  top: -105px;
+  left: 0px;
+  background-color: rgb(0, 0, 0);
+  width: 100%;
+}
+
+#profile{
+  position: relative;
+  top: -123px;
+  font-size: 1.1em;
+  left: 35px;
+}
+
+pre.exp2{
+  position: relative;
+  top: -190px;
+  font-size: 1.1rem;
+}
+
+
+#ul_1{
+  position: relative;
+  top: -20px;
+  left: 165px;
+}
+
+#hr_size7{
+  position: relative;
+  top: -180px;
+  left: 110px;
+  width: 70%;
+}
+
+#profile2{
+  position: relative;
+  top: -200px;
+  font-size: 1.1em;
+  left: 3px;
+}
+
+#ul_2{
+  position: relative;
+  top: -10px;
+  left: 198px;
+}
+
+#edu{
+  position: relative;
+  top: -260px;
+  font-size: 1.2em;
+}
+
+#hr_size8{
+  position: relative;
+  top: -270px;
+  left: 0px;
+  background-color: rgb(0, 0, 0);
+  width: 100%;
+}
+
+pre.edu1{
+  position: relative;
+  top: -280px;
+  font-size: 1.1rem;
+}
+
+#project{
+  position: relative;
+  top: -420px;
+  font-size: 1.2em;
+}
+
+#hr_size9{
+  position: relative;
+  top: -430px;
+  left: 0px;
+  background-color: rgb(0, 0, 0);
+  width: 100%;
+}
+
+#projectdesc{
+  position: relative;
+  top: -440px;
+  left: 0px;
+  
+}
+
+#desc1{
+  position: relative;
+  top: 05px;
+  left: 0px;
+}
+
+#achievements{
+  position: relative;
+  top: -440px;
+  font-size: 1.2em;
+}
+
+#hr_size10{
+  position: relative;
+  top: -450px;
+  left: 0px;
+  background-color: rgb(0, 0, 0);
+  width: 100%;
+}
+
+#desc2{
+  position:relative;
+  top: -460px;
+}
+
+#training{
+  position: relative;
+  top: -460px;
+  font-size: 1.2em;
+}
+
+#hr_size11{
+  position: relative;
+  top: -470px;
+  left: 0px;
+  background-color: rgb(0, 0, 0);
+  width: 100%;
+}
